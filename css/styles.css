@@ -15,7 +15,7 @@
 
 /* Event form */
 #event-description {
-    background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url("/predial.jpg");
+    background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url("../img/predial.jpg");
     background-position: center;
     background-size: cover;
     height: 85vh;
@@ -134,19 +134,19 @@
 }
 
 #benefit-1 {
-    background-image: url(/manta.jpg);
+    background-image: url(../img/manta.jpg);
 }
 #benefit-2 {
-    background-image: url(/acessibilidade.jpg);
+    background-image: url(../img/acessibilidade.jpg);
 }
 #benefit-3 {
-    background-image: url(/fachada.jpeg);
+    background-image: url(../img/fachada.jpeg);
 }
 
 /* Event location */
 #location {
     height: 350px;
-    background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url("/manutencao.jpg");
+    background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url("../img/manutencao.jpg");
     background-position: center;
     background-size: cover;
     display: flex;
@@ -236,7 +236,7 @@
 /* Call to Action Section*/
 #cta {
     height: 350px;
-    background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url("/reforma.jpeg");
+    background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url("../img/reforma.jpeg");
     background-position: center;
     background-size: cover;
     display: flex;
